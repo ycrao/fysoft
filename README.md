@@ -36,11 +36,7 @@
  
 ### 群 
    
->    飞扬小工具软件交流官方群：`260655062`，群名为 `云应用网络开发交流群` 。
-    
-点击下面加群图标链接加群！ 
-
- [![云应用网络开发交流群](http://pub.idqqimg.com/wpa/images/group.png '群')](http://shang.qq.com/wpa/qunwpa?idkey=74209b380755a604e6c5484b6674f35e96f63247f90cb7a71153fce72fa8f92a '云应用网络开发交流群')
+原QQ群准备解散，添加微信号: i_mingyuan [明远] 拉你入微信群。
 
 ### 软件服务与使用条款
 
@@ -55,8 +51,3 @@
 本站存档文档使用 `Markdown` 编辑器编写，不了解的 `Markdown` 的可以自行百度。  
   
 作者网络上常用的ID有 `飞扬` 或 `raoyc` 或 `ycrao` ，个人网站为 [`https://raoyc.com`](https://raoyc.com) 。目前从事互联网相关编程工作。
-
-    如需反馈问题、提出意见或建议，请通过以下方式联系作者。  
-    Email 837454876#qq&com (请将#换成@，&换成.)  
-    Github：https://github.com/ycrao  
-    官方QQ群： 260655062  
