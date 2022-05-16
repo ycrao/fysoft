@@ -33,10 +33,10 @@
 3. 英雄联盟全英雄原画壁纸下载器 [`LOL_CG_Picture_Downloader.ahk`](https://gist.github.com/ycrao/d64eef0cc5a91f6a2a01 'LOL_CG_Picture_Downloader.ahk')  
 
 4. 更多代码片段请访问我的 [`gist`](https://gist.github.com/ycrao/)  
- 
-### 群 
-   
-原QQ群准备解散，添加微信号: i_mingyuan [明远] 拉你入微信群。
+
+### 归档资源
+
+- [ycrao/ahk_scripts_archive](https://github.com/ycrao/ahk_scripts_archive): 归档和整理了一些历史上使用过的 `ahk` 类库脚本，各自脚本其版权归属于原始作者。
 
 ### 软件服务与使用条款
 
